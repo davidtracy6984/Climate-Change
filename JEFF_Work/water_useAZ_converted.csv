@@ -1,0 +1,106 @@
+﻿state,county_ID,county_name,year,"Public Supply population served by groundwater, in thousands","Public Supply population served by surface water, in thousands","Public Supply total population served, in thousands"
+Arizona,1,Apache County,1985,50.54,0,50.54
+Arizona,1,Apache County,1990,34.1,0.15,34.25
+Arizona,1,Apache County,1995,44.33,0,44.33
+Arizona,1,Apache County,2000,41.233,0,41.233
+Arizona,1,Apache County,2005,46.713,0,46.713
+Arizona,1,Apache County,2010,48.898,0,48.898
+Arizona,1,Apache County,2015,48.854,0,48.854
+Arizona,3,Cochise County,1985,77.32,0,77.32
+Arizona,3,Cochise County,1990,84.51,0,84.51
+Arizona,3,Cochise County,1995,89.65,0,89.65
+Arizona,3,Cochise County,2000,97.265,0,97.265
+Arizona,3,Cochise County,2005,102.316,0,102.316
+Arizona,3,Cochise County,2010,107.373,0.173,107.546
+Arizona,3,Cochise County,2015,102.627,0,102.627
+Arizona,5,Coconino County,1985,43.61,37.74,81.35
+Arizona,5,Coconino County,1990,69.53,14.44,83.97
+Arizona,5,Coconino County,1995,89.08,11.9,100.98
+Arizona,5,Coconino County,2000,84.285,15.765,100.05
+Arizona,5,Coconino County,2005,94.946,16.89,111.836
+Arizona,5,Coconino County,2010,99.45,22.911,122.361
+Arizona,5,Coconino County,2015,103.701,23.336,127.037
+Arizona,7,Gila County,1985,38.21,0,38.21
+Arizona,7,Gila County,1990,33.31,0,33.31
+Arizona,7,Gila County,1995,37.48,0,37.48
+Arizona,7,Gila County,2000,42.035,0,42.035
+Arizona,7,Gila County,2005,42.963,0,42.963
+Arizona,7,Gila County,2010,44.855,0.042,44.897
+Arizona,7,Gila County,2015,44.404,0.055,44.459
+Arizona,9,Graham County,1985,14.86,0,14.86
+Arizona,9,Graham County,1990,21.19,0,21.19
+Arizona,9,Graham County,1995,27.19,0,27.19
+Arizona,9,Graham County,2000,28.619,0,28.619
+Arizona,9,Graham County,2005,26.073,0,26.073
+Arizona,9,Graham County,2010,30.21,0,30.21
+Arizona,9,Graham County,2015,30.656,0,30.656
+Arizona,11,Greenlee County,1985,2.01,4.76,6.77
+Arizona,11,Greenlee County,1990,3.65,2.6,6.25
+Arizona,11,Greenlee County,1995,6.75,0,6.75
+Arizona,11,Greenlee County,2000,6.577,0,6.577
+Arizona,11,Greenlee County,2005,6.171,0,6.171
+Arizona,11,Greenlee County,2010,7.087,0,7.087
+Arizona,11,Greenlee County,2015,8.179,0,8.179
+Arizona,12,La Paz County,1985,3.6,2.55,6.15
+Arizona,12,La Paz County,1990,7.49,2.44,9.93
+Arizona,12,La Paz County,1995,5.45,2.46,7.91
+Arizona,12,La Paz County,2000,11.475,0,11.475
+Arizona,12,La Paz County,2005,12.33,2.138,14.468
+Arizona,12,La Paz County,2010,13.448,1.271,14.719
+Arizona,12,La Paz County,2015,9.107,5.275,14.382
+Arizona,13,Maricopa County,1985,777.8,1043.8,1821.6
+Arizona,13,Maricopa County,1990,945.86,1114.45,2060.31
+Arizona,13,Maricopa County,1995,775.26,1582.59,2357.85
+Arizona,13,Maricopa County,2000,633.931,2395.218,3029.149
+Arizona,13,Maricopa County,2005,1059.658,2533.43,3593.088
+Arizona,13,Maricopa County,2010,1400.513,2374.401,3774.914
+Arizona,13,Maricopa County,2015,1005.956,3119.551,4125.507
+Arizona,15,Mohave County,1985,40.27,17,57.27
+Arizona,15,Mohave County,1990,79.93,2.6,82.53
+Arizona,15,Mohave County,1995,106.85,2.8,109.65
+Arizona,15,Mohave County,2000,139.121,3.531,142.652
+Arizona,15,Mohave County,2005,178.97,0,178.97
+Arizona,15,Mohave County,2010,191.939,0,191.939
+Arizona,15,Mohave County,2015,196.467,0,196.467
+Arizona,17,Navajo County,1985,65.04,0,65.04
+Arizona,17,Navajo County,1990,50.42,0,50.42
+Arizona,17,Navajo County,1995,56.31,0,56.31
+Arizona,17,Navajo County,2000,80.3,0,80.3
+Arizona,17,Navajo County,2005,94.882,0,94.822
+Arizona,17,Navajo County,2010,93.839,0,93.839
+Arizona,17,Navajo County,2015,94.667,0,94.667
+Arizona,19,Pima County,1985,623.35,0,623.35
+Arizona,19,Pima County,1990,626.62,0,626.62
+Arizona,19,Pima County,1995,726.08,0,726.08
+Arizona,19,Pima County,2000,817.586,0,817.586
+Arizona,19,Pima County,2005,904.106,0,904.106
+Arizona,19,Pima County,2010,893.759,65.824,959.583
+Arizona,19,Pima County,2015,989.345,0,989.345
+Arizona,21,Pinal County,1985,71.27,0,71.27
+Arizona,21,Pinal County,1990,97.07,0,97.07
+Arizona,21,Pinal County,1995,101.71,1.95,103.66
+Arizona,21,Pinal County,2000,138.782,21.545,160.327
+Arizona,21,Pinal County,2005,162.84,54.129,216.969
+Arizona,21,Pinal County,2010,293.454,69.802,363.256
+Arizona,21,Pinal County,2015,338.189,55.825,394.014
+Arizona,23,Santa Cruz County,1985,26.49,0,26.49
+Arizona,23,Santa Cruz County,1990,25.13,0,25.13
+Arizona,23,Santa Cruz County,1995,31.1,0,31.1
+Arizona,23,Santa Cruz County,2000,32.051,0,32.051
+Arizona,23,Santa Cruz County,2005,37.059,0,37.059
+Arizona,23,Santa Cruz County,2010,42.46,0,42.46
+Arizona,23,Santa Cruz County,2015,41.501,0,41.501
+Arizona,25,Yavapai County,1985,77.66,2,79.66
+Arizona,25,Yavapai County,1990,87.12,2,89.12
+Arizona,25,Yavapai County,1995,102.28,1.77,104.05
+Arizona,25,Yavapai County,2000,132.337,0,132.337
+Arizona,25,Yavapai County,2005,174.311,0,174.311
+Arizona,25,Yavapai County,2010,186.643,0,186.643
+Arizona,25,Yavapai County,2015,197.865,0,197.865
+Arizona,27,Yuma County,1985,18.39,51.87,70.26
+Arizona,27,Yuma County,1990,22.75,67.6,90.35
+Arizona,27,Yuma County,1995,45.33,68.71,114.04
+Arizona,27,Yuma County,2000,43.647,100.699,144.346
+Arizona,27,Yuma County,2005,52.887,118.45,171.337
+Arizona,27,Yuma County,2010,55.745,130.066,185.811
+Arizona,27,Yuma County,2015,58.531,135.804,194.335
